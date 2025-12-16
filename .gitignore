@@ -1,0 +1,12 @@
+# React
+node_modules/
+build/
+
+# Spring Boot / Java
+target/
+*.log
+*.class
+*.jar
+
+# Sistema
+.DS_Store
